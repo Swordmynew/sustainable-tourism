@@ -17,7 +17,7 @@ This study develops a dynamic scoring‑and‑optimization framework to balance 
 ---
 ## 🏠 Architecture
 
-
+![Sustainable Tourism Architecture](s.png)
 ## 🎯 Objectives
 
 1. Construct a composite sustainability score  
