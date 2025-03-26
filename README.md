@@ -61,3 +61,9 @@ This study develops a dynamic scoring‑and‑optimization framework to balance 
 
 ## 📂 File Structure
 
+
+---
+
+## 📚 References
+
+MCM2025.pdf — “Towards Sustainable Tourism: A Dynamic Optimization Model for Locations in Trouble.” :contentReference[oaicite:0]{index=0}
