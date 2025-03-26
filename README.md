@@ -15,6 +15,8 @@ This study develops a dynamic scoring‑and‑optimization framework to balance 
 - **Hawaii Island** (extreme overtourism)  
 
 ---
+## 🏠 Architecture
+
 
 ## 🎯 Objectives
 
