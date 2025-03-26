@@ -1,6 +1,5 @@
 # Towards Sustainable Tourism: A Dynamic Optimization Model for Locations in Trouble
 
-**Team Control Number:** 2520023  
 **Problem:** MCM/ICM 2025, Problem B  
 **Date:** January 27, 2025  
 
